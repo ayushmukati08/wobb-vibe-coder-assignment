@@ -55,7 +55,7 @@ persistent shortlist using Zustand.
 
 ![Profile Page](screenshots/profile-page.png)
 
-### Profile Page
+### Home Page
 
 ![Home Page](screenshots/home-page.png)
 
